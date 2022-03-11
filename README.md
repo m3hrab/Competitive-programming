@@ -17,12 +17,12 @@ Books, Articles and toturials references:
 <ol>
 <li>প্রোগ্রামিং কনটেস্ট ডেটা স্ট্রাকচার ও অ্যালগরিদম <br>
 </li>
-- [] Chapter-1
-- [] Chapter-2
+- [ ] Chapter-1 <br>
+- [ ] Chapter-2
 
 <li>Basic C++  <br></li>
-- [] C++ Introduction <br>
-- [] C++ Flow Control <br>
-- [] C++ Functions <br>
-- [] C++ Arrays & String<br>
-- [] C++ Structures<br>
+- [ ] C++ Introduction <br>
+- [ ] C++ Flow Control <br>
+- [ ] C++ Functions <br>
+- [ ] C++ Arrays & String<br>
+- [ ] C++ Structures<br>
