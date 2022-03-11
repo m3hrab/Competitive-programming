@@ -25,18 +25,23 @@ Books, Articles and toturials references:
 
 <li>Basic C++  <br>
 <input type="checkbox" id="chapter-1">
-<label for="chapter-1">C++ fundamentals</label>
+<label for="chapter-1">C++ Introduction
+</label>
 <br>
 <input type="checkbox" id="chapter-1">
-<label for="chapter-1">C++ fundamentals</label>
+<label for="chapter-1">C++ Flow Control
+</label>
 <br>
 <input type="checkbox" id="chapter-1">
-<label for="chapter-1">C++ fundamentals</label>
+<label for="chapter-1">C++ Functions
+</label>
 <br>
 
 <input type="checkbox" id="chapter-1">
-<label for="chapter-1">C++ fundamentals</label>
+<label for="chapter-1">C++ Arrays & String
+</label>
 <br>
 <input type="checkbox" id="chapter-1">
-<label for="chapter-1">C++ fundamentals</label>
+<label for="chapter-1">C++ Structures
+</label>
 <br>
