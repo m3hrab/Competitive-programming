@@ -13,14 +13,18 @@ Books, Articles and toturials references:
 <li><a href="https://www.programiz.com/cpp-programming">Basic C++ toturial by programiz
 </a><br><br></li>
 
-<div align="center">To do<br><small>March 2022</small></div><br>
-<ol>
-<li>প্রোগ্রামিং কনটেস্ট ডেটা স্ট্রাকচার ও অ্যালগরিদম <br>
+##To do
+
+### March 2022
+
+###প্রোগ্রামিং কনটেস্ট ডেটা স্ট্রাকচার ও অ্যালগরিদম
+
 </li>
 - [ ] Chapter-1 <br>
 - [ ] Chapter-2
 
-<li>Basic C++  <br></li>
+###Basic C++
+
 - [ ] C++ Introduction <br>
 - [ ] C++ Flow Control <br>
 - [ ] C++ Functions <br>
