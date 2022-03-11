@@ -16,32 +16,13 @@ Books, Articles and toturials references:
 <div align="center">To do<br><small>March 2022</small></div><br>
 <ol>
 <li>প্রোগ্রামিং কনটেস্ট ডেটা স্ট্রাকচার ও অ্যালগরিদম <br>
-<input type="checkbox" id="chapter-1">
-<label for="chapter-1">Chapter-1</label>
-<br>
-<input type="checkbox" id="chapter-1">
-<label for="chapter-1">Chapter-2</label>
-<br>
+</li>
+- [] Chapter-1
+- [] Chapter-2
 
-<li>Basic C++  <br>
-<input type="checkbox" id="chapter-1">
-<label for="chapter-1">C++ Introduction
-</label>
-<br>
-<input type="checkbox" id="chapter-1">
-<label for="chapter-1">C++ Flow Control
-</label>
-<br>
-<input type="checkbox" id="chapter-1">
-<label for="chapter-1">C++ Functions
-</label>
-<br>
-
-<input type="checkbox" id="chapter-1">
-<label for="chapter-1">C++ Arrays & String
-</label>
-<br>
-<input type="checkbox" id="chapter-1">
-<label for="chapter-1">C++ Structures
-</label>
-<br>
+<li>Basic C++  <br></li>
+- [] C++ Introduction <br>
+- [] C++ Flow Control <br>
+- [] C++ Functions <br>
+- [] C++ Arrays & String<br>
+- [] C++ Structures<br>
